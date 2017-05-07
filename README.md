@@ -2,7 +2,7 @@
 
 > "A childhood dream in the making” :sunglasses:
 
-![Demo ](images/demo.gif "Demo")
+![Demo](images/demo.gif "Demo")
 
 PS. Basic skeleton to get started :sweat_smile:
 
