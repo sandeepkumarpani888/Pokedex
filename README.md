@@ -7,14 +7,15 @@
 PS. Basic skeleton to get started :sweat_smile:
 
 ## Introduction
-The goal of __Pokedex__ is simple. Have an online Pokedex collection for anyone and everyone to access. :grin:
+The goal of __Pokedex__ is simple. Have an online Pokedex collection for anyone and everyone to access.
+Make it more of a place to geek out about Pokemon :grin:
 
 ## Technologies
-Build using React and HackLang (Yeah you guessed it right, pretty new to all this)
+Build using React and Hack (Yeah you guessed it right, pretty new to all this)
 
 ## Dependencies
 - redis
-- HackLang
+- Hack
 
 ## How to use
 - Clone the repo
