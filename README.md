@@ -1,4 +1,45 @@
-1. do 'npm start' to start the deployment server
-2. go to the scripts folder and 'hhvm -m server -p 8080'
-3. good to go!! 
-4. a new windew should have opened up in your browser by now.
+# Pokedex
+
+> "A childhood dream in the making” :sunglasses:
+
+![Demo ](images/demo.gif "Demo")
+
+PS. Basic skeleton to get started :sweat_smile:
+
+## Introduction
+The goal of __Pokedex__ is simple. Have an online Pokedex collection for anyone and everyone to access. :grin:
+
+## Technologies
+Build using React and HackLang (Yeah you guessed it right, pretty new to all this)
+
+## Dependencies
+- redis
+- HackLang
+
+## How to use
+- Clone the repo
+```Shell
+git clone https://github.com/sandeepkumarpani888/Pokedex
+```
+
+- Navigate into the cloned repository
+```Shell
+cd Pokedex
+```
+
+- Install all `npm` modules
+```Shell
+npm install
+```
+
+- Start the deployment server using `npm start`
+```Shell
+npm start
+```
+
+- Start HHVM in server mode
+```Shell
+cd scripts
+hhvm -m server -p 8080
+
+- Basic framework at http://localhost:3000/
